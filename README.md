@@ -1,5 +1,5 @@
 # Who am I?
-Hello, I'm Frost, but sometimes I go by Thqrn. I write scripts in Batch, most of them using FFmpeg. 
+Hello, I'm Frost, but sometimes I go by Thqrn. I write batch scripts, most of them using FFmpeg. 
 
 # Contact
 - eMail: frostlord7473@gmail.com
