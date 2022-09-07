@@ -13,12 +13,6 @@ An extremely customizable batch script designed to make your videos, images, aud
 - [Documentation](https://qualitymuncher.lgbt/docs) (currently a work in progress)
 - [GitHub](https://github.qualitymuncher.lgbt)
 - [Discord](https://discord.qualitymuncher.lgbt)
-
-<video controls autoplay muted loop style="animation-duration: 1.5s;" class="previewimage secret center moveup image">
-<source src="https://qualitymuncher.lgbt/videos/qualitymuncherdemo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 *Requires Windows 10/11 and FFmpeg. For cross-platform, check out the [python version by Atzur](https://py.qualitymuncher.lgbt).*
 
 ### FFmpeg Scripts
