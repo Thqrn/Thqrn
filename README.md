@@ -17,11 +17,11 @@ An extremely customizable batch script designed to make your videos, images, aud
 *Requires Windows 10/11 and FFmpeg. For cross-platform, check out the [Go version](https://go.qualitymuncher.lgbt).* or the [Python version by Atzur](https://py.qualitymuncher.lgbt).*
 
 ### FFmpeg Scripts
-A collection of almost all of the batch/FFmpeg scripts I often use, with many uses. Some notable ones include
+A collection of almost all of the batch/FFmpeg scripts I often use, with many uses. Some notable ones include:
 - a video to GIF converter
 - a frame extractor (extracts a frame from a video and saves it)
 - a video resampler (blends frames of the video together)
 - WebM scaling (takes a video and creates a variable resolution WebM with it)
-- Properties (displays some traits I find important for media files, such as resolution, codecs, duration, and frame count)
-- Compare multiple (compares multiple video side-by-side, I've tested this with as many as 42 videos at the same time)
+- properties (displays some traits I find important for media files, such as resolution, codecs, duration, and frame count)
+- compare multiple (compares multiple video side-by-side, I've tested this with as many as 42 videos at the same time)
 *Requires Windows 10/11 and FFmpeg. No cross-platform version of these scripts exist as of now.*
