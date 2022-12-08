@@ -13,7 +13,8 @@ An extremely customizable batch script designed to make your videos, images, aud
 - [Documentation](https://qualitymuncher.lgbt/docs) (currently a work in progress)
 - [GitHub](https://github.qualitymuncher.lgbt)
 - [Discord](https://discord.qualitymuncher.lgbt)
-*Requires Windows 10/11 and FFmpeg. For cross-platform, check out the [python version by Atzur](https://py.qualitymuncher.lgbt).*
+
+*Requires Windows 10/11 and FFmpeg. For cross-platform, check out the [Go version](https://go.qualitymuncher.lgbt).* or the [Python version by Atzur](https://py.qualitymuncher.lgbt).*
 
 ### FFmpeg Scripts
 A collection of almost all of the batch/FFmpeg scripts I often use, with many uses. Some notable ones include
