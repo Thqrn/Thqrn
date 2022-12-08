@@ -10,7 +10,7 @@ Hello, I'm Frost, but sometimes I go by Thqrn. I write batch scripts, most of th
 ### Quality Muncher
 An extremely customizable batch script designed to make your videos, images, audios, and GIFs look worse, in almost any way you can imagine. There's interlacing, downscaling, downsampling, color correction, text, text to speech, deep frying, corruption, and more. For a full(er) list check the [features](https://qualitymuncher.lgbt/features) page.
 - [Website](https://qualitymuncher.lgbt)
-- [Documentation](https://qualitymuncher.lgbt/docs) (currently a work in progress)
+- [Documentation](https://qualitymuncher.lgbt/docs) (incomplete)
 - [GitHub](https://github.qualitymuncher.lgbt)
 - [Discord](https://discord.qualitymuncher.lgbt)
 
