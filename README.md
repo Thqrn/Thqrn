@@ -23,5 +23,6 @@ A collection of almost all of the batch/FFmpeg scripts I often use, with many us
 - a video resampler (blends frames of the video together)
 - WebM scaling (takes a video and creates a variable resolution WebM with it)
 - properties (displays some traits I find important for media files, such as resolution, codecs, duration, and frame count)
-- compare multiple (compares multiple video side-by-side, I've tested this with as many as 42 videos at the same time)
-*Requires Windows 10/11 and FFmpeg. No cross-platform version of these scripts exist as of now.*
+- compare multiple (compares multiple video side-by-side, I've tested this with as many as 42 videos at the same time
+- 
+*Requires Windows 10/11 and FFmpeg.*
