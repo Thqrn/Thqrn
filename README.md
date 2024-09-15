@@ -3,7 +3,7 @@ Hello, I'm Frost/Thqrn. I write batch scripts, most of them using FFmpeg.
 
 # Contact
 - email: frostlord7473@gmail.com
-- Discord: Frost#5872 (518167602615549955) or my [server](https://discord.qualitymuncher.lgbt)
+- Discord: @froest (518167602615549955) or my [server](https://discord.qualitymuncher.lgbt)
 - TikTok: frostlord_ and thqrn
 
 # My Projects
