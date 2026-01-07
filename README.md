@@ -1,18 +1,17 @@
 # Who am I?
-Hello, I'm Frost/Thqrn. I write batch scripts, most of them using FFmpeg. 
+I'm Frost/Thqrn. I do stuff with FFmpeg and video/image encoding.
 
 # Contact
-- email: frostlord7473@gmail.com
-- Discord: @froest (518167602615549955) or my [server](https://discord.qualitymuncher.lgbt)
-- TikTok: frostlord_ and thqrn
+- Email: frostlord7473@gmail.com
+- Discord: @froest (518167602615549955) or my [server](https://discord.com/invite/5TVDkZe2Wh)
 
-# My Projects
+# Notable Projects
 ### Quality Muncher
-An extremely customizable batch script designed to make your videos, images, audios, and GIFs look worse, in almost any way you can imagine. There's interlacing, downscaling, downsampling, color correction, text, text to speech, deep frying, corruption, and more. For a full(er) list check the [features](https://qualitymuncher.lgbt/features) page.
-- [Website](https://qualitymuncher.lgbt)
-- [Documentation](https://qualitymuncher.lgbt/docs) (incomplete)
-- [GitHub](https://github.qualitymuncher.lgbt)
-- [Discord](https://discord.qualitymuncher.lgbt)
+A program written to make media (videos, gifs, audio, images) look worse in almost every way imaginable. Interlacing, frying, downscaling/downscampling, heavy compression, text-to-speech, corruption, and plenty more. There's a [batch version](https://github.com/qm-org/qualitymuncher) (TUI), a [Go version](https://github.com/qm-org/qm-go) (CLI), and a [Python version](https://github.com/qm-org/qm-py) (CLI). All require FFmpeg.
+- [Website](https://qm-org.github.io/qualitymuncher/)
+- [Documentation](https://qm-org.github.io/qualitymuncher/docs) (incomplete)
+- [GitHub](https://github.com/qm-org/qualitymuncher) ([Go Version](https://github.com/qm-org/qm-go), [Python version](https://github.com/qm-org/qm-py))
+- [Discord](https://discord.com/invite/5TVDkZe2Wh)
 
 *Requires Windows 10/11 and FFmpeg. For cross-platform, check out the [Go version](https://go.qualitymuncher.lgbt).* or the [Python version by Atzur](https://py.qualitymuncher.lgbt).*
 
@@ -24,5 +23,5 @@ A collection of almost all of the batch/FFmpeg scripts I often use, with many us
 - WebM scaling (takes a video and creates a variable resolution WebM with it)
 - properties (displays some traits I find important for media files, such as resolution, codecs, duration, and frame count)
 - compare multiple (compares multiple video side-by-side, I've tested this with as many as 42 videos at the same time
-- 
+
 *Requires Windows 10/11 and FFmpeg.*
